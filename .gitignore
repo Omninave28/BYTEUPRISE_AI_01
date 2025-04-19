@@ -1,0 +1,31 @@
+
+---
+
+### 2. **.gitignore File**
+
+```bash
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# React Build
+build/
+dist/
+
+# FastAPI
+.venv/
+
+# .env file for secret management
+.env
