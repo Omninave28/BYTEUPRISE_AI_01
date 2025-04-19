@@ -12,10 +12,10 @@ This is an intelligent FAQ Chatbot developed for customer support, built with Fa
 - **Frontend & Backend Integration**: A smooth interaction between FastAPI backend and React + Vite frontend.## How to Run the Code
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Omninave28/faq-chatbot.git
-   cd faq-chatbot
-   ```
+```bash
+git clone https://github.com/Omninave28/faq-chatbot.git
+cd faq-chatbot
+```
    
 2.  Set up the backend:
 - Install the Python dependencies:
